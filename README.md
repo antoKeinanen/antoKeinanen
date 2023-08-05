@@ -1,4 +1,5 @@
 - Lead developer @ SedenionCas https://sedenion.net
+- Fullstack Developer
 - My languages: Rust | Js/Ts | Java
 
 ![Anto Keinanen's GitHub stats](https://github-readme-stats.vercel.app/api?username=antoKeinanen&show_icons=true&theme=dark)
